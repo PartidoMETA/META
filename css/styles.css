@@ -1,4 +1,3 @@
-/* Paleta de colores */
 :root {
     --color-primario: #191B28;
     --color-secundario: #22273B;
@@ -176,4 +175,3 @@ header {
         flex: none;
     }
 }
-
